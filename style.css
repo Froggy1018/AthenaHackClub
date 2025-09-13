@@ -1,23 +1,14 @@
-body { 
-    width: 80%;
+picture{
+    align-items: left;
+    border: 2px white;
 }
 
-/* 
-this will affect elements with the 'cool' class, as shown by the '.'
-e.g <div class = "cool"><div> 
-
-classes can be applied to multiple elements
-*/
-.cool { 
-    color: white;
+main{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
 }
 
-/* 
-this will affect elements with the 'very-cool' id, as shown by the '#'
-e.g <div id = "very-cool"><div> 
-
-ids should only be applied to one element
-*/
-#very-cool { 
-    background: white;
+paragragh{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
 }
