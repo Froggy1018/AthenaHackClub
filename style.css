@@ -1,0 +1,9 @@
+picture{
+    align-items: left;
+    border: 2px white;
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+}
